@@ -1,0 +1,31 @@
+[13:38:39] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[13:38:39] [Server thread/INFO]: Loading properties
+[13:38:40] [Server thread/INFO]: Default game type: SURVIVAL
+[13:38:40] [Server thread/INFO]: Generating keypair
+[13:38:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:38:40] [Server thread/INFO]: Using default channel type
+[13:38:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:38:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:38:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:38:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:38:40] [Server thread/INFO]: Preparing level "mike"
+[13:38:40] [Server thread/INFO]: Preparing start region for level 0
+[13:38:41] [Server thread/INFO]: Preparing spawn area: 8%
+[13:38:42] [Server thread/INFO]: Preparing spawn area: 64%
+[13:38:43] [Server thread/INFO]: Done (3.122s)! For help, type "help" or "?"
+[13:41:30] [Server thread/INFO]: RainfireXT[/192.168.1.55:49642] logged in with entity id 372 at (321.5171503723009, 87.0, 64.62854797875315)
+[13:41:30] [Server thread/INFO]: RainfireXT joined the game
+[13:41:43] [Server thread/INFO]: The_Noob74[/173.23.160.188:60688] logged in with entity id 657 at (82.60218754490518, 64.0, -91.68417599080354)
+[13:41:43] [Server thread/INFO]: The_Noob74 joined the game
+[13:41:53] [Server thread/INFO]: The_Noob74 has just earned the achievement [Getting Wood]
+[13:43:49] [Server thread/INFO]: RainfireXT has just earned the achievement [Getting Wood]
+[13:43:57] [Server thread/INFO]: The_Noob74 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:43:57] [Server thread/INFO]: The_Noob74 left the game
+[13:45:14] [Server thread/INFO]: Set the world spawn point to (264, 129, 1571)
+[13:45:39] [Server thread/INFO]: RainfireXT was slain by Spider
+[13:45:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2146ms behind, skipping 42 tick(s)
+[13:47:59] [Server thread/INFO]: Opped The_Noob74
+[13:50:01] [Server thread/INFO]: RainfireXT has just earned the achievement [Benchmarking]
+[13:50:30] [Server thread/INFO]: RainfireXT has just earned the achievement [Time to Mine!]
+[13:50:30] [Server thread/INFO]: RainfireXT has just earned the achievement [Getting an Upgrade]
+[13:50:34] [Server thread/INFO]: RainfireXT has just earned the achievement [Time to Strike!]
